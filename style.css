@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+p {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.content img {
+    max-width: 400px;
+    height: auto;
+    margin-top: 20px;
+}
+
+.content p {
+    margin-top: 10px;
+}
